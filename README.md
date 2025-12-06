@@ -1,7 +1,8 @@
   ***THE THEORY OF EVERYTHING***
+       
        REPOSITORY NO. 1
 
-# Principium Universale et Fundamentum Rerum
+# Principium Universale et     Fundamentum Rerum
 **The Universal Principle and Foundation of Things**
 
 > “We have constructed a theory of everything that contains exactly five axioms, zero free parameters, and no violation of its own principles.  
